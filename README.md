@@ -138,6 +138,4 @@ Bu projeye katkıda bulunmak isterseniz, lütfen bir Pull Request gönderin. Kat
 Bu proje MIT Lisansı altında lisanslanmıştır.
 
 📞 İletişim
-E-posta: kullanici@example.com
-
-GitHub: github.com/kullanici
+E-posta: aaltunfaruk@gmail.com
